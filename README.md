@@ -2,11 +2,8 @@
 
 
 <div align="center">
-<h1><img width="60" src="https://prodramp.com/static/media/prodramp-100.27426f0b.png">&nbsp;<a href="https://madewithml.com/">DeepWorks</a></h1>
 A collection of Deep Learning projects  and resources
-<br>
-Join my @Prodramp YouTube Channel for <a href="https://www.youtube.com/channel/@prodramp"> all things about Data Science, machine learning and Artificial Intelligence</a> and technology.
-<br>
+
 </div>
 
 <br>
